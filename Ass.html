@@ -16,10 +16,10 @@ th, td {
 </style>
 </head>
 <body>
-<h1 style="color:white;background-color:darkblue;"><marquee behavior="scroll" direction="right" scrollamount="6"><img src="C:\Users\ASUS\Desktop\logo cost.jpg" alt="Assigment 4" style="width:130px;height:50px;">ស្វាគមន៍!  IT Women in College Science and Technology</marquee></h1>
-<img src="C:\Users\ASUS\Desktop\img ass\photo_2023-11-03_09-54-11.jpg" width="460" height="440">
-<img src="C:\Users\ASUS\Desktop\img ass\lap 1.jpg" width="460" height="440">
-<img src="C:\Users\ASUS\Desktop\img ass\lap 2.jpg" width="460" height="440">
+<h1 style="color:white;background-color:darkblue;"><marquee behavior="scroll" direction="right" scrollamount="6"><img src="img ass" alt="Assigment 4" style="width:130px;height:50px;">ស្វាគមន៍!  IT Women in College Science and Technology</marquee></h1>
+<img src="img ass" width="460" height="440">
+<img src="img ass" width="460" height="440">
+<img src="img ass" width="460" height="440">
 <p>សូមសា្វគមន៍មកកាន់មហាវិទ្យាល័យវិទ្យាសាស្រ្ត​ និងបច្ចេកវិទ្យានៃសាកលវិទ្យាល័យកម្ពុជា។ សម្រាប់ប្អូនៗសិស្សានុសិស្ស ដែលមានបំណងចង់បន្តការសិក្សាថ្នាក់បរិញ្ញាប័ត្រ និងថ្នាក់បរិញ្ញាប័ត្ររង។ សូមចុះឈ្មោះជាមួយយើងឥឡូវនេះ ឬ មកកាន់សាកលវិទ្យាល័យកម្ពុជាផ្ទាល់ក៏បាន។</p>
 <p>Welcome to College of Science and Technology of The University of Cambodia.For everyone who whishes to pursue for any AA and BA degree of the study programs,please register now or visit the campus of the university Cambodia.</p>
 <h1 style="color:white;background-color:darkblue;" style="width:130px height:50px;">Majors Offering in College of Science and Technology</h1>
@@ -46,10 +46,10 @@ th, td {
 </table>
 <h1 style="color:white;background-color:darkblue;" style="width:130px height:50px;">College Science and Technology Computer lap</h1>
 </body>
-<img src="C:\Users\ASUS\Desktop\lap 3.jpg" width="650" height="440">
-<img src="C:\Users\ASUS\Desktop\lap 4.jpg" width="650" height="440">
-<img src="C:\Users\ASUS\Desktop\lap 6.jpg" width="650" height="440">
-<img src="C:\Users\ASUS\Desktop\lap 5.jpg" width="650" height="440">
+<img src="img ass" width="650" height="440">
+<img src="img ass" width="650" height="440">
+<img src="img ass" width="650" height="440">
+<img src="img ass" width="650" height="440">
 <h3 style="color:black">Computer Labs in University of Cambodia</h3>
 <table style="background-color:lightgray; width:100%;">
   <tr style="80px">
